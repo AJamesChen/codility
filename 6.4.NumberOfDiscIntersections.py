@@ -8,6 +8,7 @@ Created on Sun Mar 26 10:21:04 2017
 """
 6.4.NumberOfDiscIntersections
 Compute the number of intersections in a sequence of discs.
+https://codility.com/demo/results/training2WTXX6-EV7/
 """
 
 import unittest
