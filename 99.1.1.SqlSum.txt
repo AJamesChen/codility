@@ -1,0 +1,9 @@
+/*
+99.1.1. SqlSum
+Calculate sum of elements.
+*/
+
+-- write your code in PostgreSQL 9.4
+SELECT SUM(v)
+FROM elements
+
