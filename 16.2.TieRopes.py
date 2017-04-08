@@ -5,7 +5,6 @@
 
 """
 16.2.TieRopes
-COMMENT VIEW  START
 Tie adjacent ropes to achieve the maximum number of ropes of length >= K.
 https://codility.com/demo/results/trainingQV5EE9-A33/
 """
